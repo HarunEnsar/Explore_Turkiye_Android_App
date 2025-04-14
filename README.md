@@ -1,16 +1,46 @@
-# proje2
+# 🇹🇷 Explore Turkiye - Flutter App
 
-A new Flutter project.
+A Flutter application that showcases Turkey's most beautiful and culturally rich destinations.  
+Explore historical landmarks, stunning nature, and modern cityscapes — all in one app!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="docs/images/1.jpg" alt="Screen 1" width="15%" />
+  <img src="docs/images/2.jpg" alt="Screen 2" width="15%" />
+  <img src="docs/images/3.jpg" alt="Screen 3" width="15%" />
+  <img src="docs/images/4.jpg" alt="Screen 4" width="15%" />
+  <img src="docs/images/5.jpg" alt="Screen 5" width="15%" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔐 Authentication
+
+<div align="center">
+  <img src="docs/images/enter.jpg" alt="Enter" width="20%" />
+  <img src="docs/images/login.jpg" alt="Login" width="20%" />
+  <img src="docs/images/sign_up.jpg" alt="Sign Up" width="20%" />
+</div>
+
+---
+
+## 🚀 Features
+
+- Browse and Explore Turkiye
+- View detailed descriptions and images  
+- Smooth user experience with Flutter  
+- Authentication: Login / Sign Up pages  
+- Simple and clean UI  
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+flutter pub get
+flutter run
