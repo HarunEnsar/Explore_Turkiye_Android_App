@@ -40,7 +40,7 @@ Explore historical landmarks, stunning nature, and modern cityscapes — all in 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/HarunEnsar/Explore_Turkiye_Android_App.git
+cd Explore_Turkiye_Android_App
 flutter pub get
 flutter run
